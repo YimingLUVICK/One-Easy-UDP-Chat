@@ -1,1 +1,1 @@
-## One Easy UDP Chat implemented by Python
+## One Easy UDP Chat Implemented by Python
